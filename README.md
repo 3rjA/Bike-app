@@ -1,5 +1,10 @@
 # Bike app
 
+# Setting up dev environment TODO
+
+- eslint
+- prettier
+
 # Helsinki city bike app (Dev Academy pre-assignment)
 
 This is the pre-assignment for Solita Dev Academy Finland 2023. But if you’re here just purely out of curiosity, feel free to snatch the idea and make your own city bike app just for the fun of it!
