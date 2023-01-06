@@ -61,6 +61,8 @@ Focus on the recommended features. For extra points, you might want to also comp
 
 #### Recommended
 
+- init react app
+  - init react app
 - List journeys
   - If you don't implement pagination, use some hard-coded limit for the list length because showing several million rows would make any browser choke
 - For each journey show departure and return stations, covered distance in kilometers and duration in minutes
