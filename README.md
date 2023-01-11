@@ -1,5 +1,10 @@
 # Bike app
 
+## <mysql>
+
+- `set global max_allowed_packet=1000000000;` need to set this every time local machine starts.
+
+
 # Setting up dev environment TODO
 
 - eslint
